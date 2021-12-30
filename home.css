@@ -1,0 +1,104 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+main{
+    min-width: 80vw;
+    margin:0 auto;
+}
+.section{
+    text-align: center;
+}
+.section h1{
+    position:relative;
+    font-size: 3rem ;
+}
+
+.underscore{
+     width:10rem;
+    height:4px;
+    margin:0 auto;
+    background:limegreen;
+}
+.first{
+    margin:1rem;
+    padding:1rem;
+}
+
+.testimonial{
+    margin-top:3rem;
+    background:rgba(255, 231, 231, 0.934);
+    height:auto;
+    padding:2rem 2rem 1rem 2rem;
+    text-align: center;
+    
+    
+}
+
+.studCont{
+    display:flex;
+    justify-content: space-around;
+}
+.studentImg{
+    width:20rem;
+    height:20rem;
+    border-radius:50%;
+    margin-left: 3rem;
+    overflow:hidden;
+    margin-bottom: 3rem;
+}
+.studImg{
+    width:100%;
+    height:100%;
+    border-radius: 50%;
+}
+
+.btn1{
+    width:fit-content;
+    display:inline-block;
+    margin:0 auto;
+    border-radius: 10px;
+    outline:none;
+    border:none;
+}
+.btn1:hover{
+    background:limegreen;
+
+}
+.studentInfo{
+    margin:3rem 1rem 2rem 3rem;
+    width:50%;
+    margin-left: 1rem;
+    text-align: left;
+}
+.facilities{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    background:rgba(255, 231, 231, 0.934);
+    padding:3rem 2rem;
+
+}
+
+.facilityImg{
+    flex-basis: 40%;
+    margin:1rem 3rem;
+    text-align: center;
+}
+.facilityImg img{
+    width:20rem;
+}
+.facilityInfo{
+    margin-top: 6rem;
+    flex-basis: 50%;
+    margin-left: 3rem;
+}
+
+@media  (min-width:70rem){
+ main{
+     max-width:90vw;
+     margin:0 auto;
+ }
+}

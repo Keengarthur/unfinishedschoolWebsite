@@ -1,0 +1,197 @@
+export let  studentData = [
+    {
+        name:'George',
+    class:'sss3',
+    subjectsOffered:{
+        Maths:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        },
+        English:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        },
+        Biology:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        }
+    }
+    },
+    {
+        name:'George',
+    class:'sss1',
+    subjectsOffered:{
+        Maths:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        },
+        English:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        },
+        Biology:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        }
+    }
+    },
+    {
+    name:'Elizabeth',
+    class:'jss3',
+    subjectsOffered:{
+        Maths:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        },
+        English:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        },
+        Biology:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        }
+    }
+
+},
+{
+name:'Elizabeth',
+    class:'jss1',
+    subjectsOffered:{
+        Maths:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        },
+        English:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        },
+        Biology:{
+            test:'',
+            exam:'',
+            total:'',
+            grade:''
+        }
+    }
+
+},
+{
+    name:'George',
+class:'jss2',
+subjectsOffered:{
+    Maths:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    },
+    English:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    },
+    Biology:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    }
+}
+
+},
+
+{
+    name:'George',
+class:'jss2',
+subjectsOffered:{
+    Maths:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    },
+    English:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    },
+    Biology:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    }
+}
+},{
+    name:'George',
+class:'sss2',
+subjectsOffered:{
+    Maths:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    },
+    English:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    },
+    Biology:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    }
+}
+},{
+    name:'George',
+class:'sss2',
+subjectsOffered:{
+    Maths:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    },
+    English:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    },
+    Biology:{
+        test:'',
+        exam:'',
+        total:'',
+        grade:''
+    }
+}
+}
+
+]
